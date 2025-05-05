@@ -1,0 +1,168 @@
+{"symbol": "IBM", "timestamp": "2025-05-02 19:59:00", "open": 245.55, "high": 245.55, "low": 245.45, "close": 245.45, "volume": 13.0}
+{"symbol": "AAPL", "timestamp": "2025-05-02 19:59:00", "open": 205.14, "high": 205.15, "low": 205.04, "close": 205.1099, "volume": 7274.0}
+{"symbol": "MSFT", "timestamp": "2025-05-02 19:59:00", "open": 434.6, "high": 434.72, "low": 434.59, "close": 434.655, "volume": 268.0}
+{"symbol": "GOOGL", "timestamp": "2025-05-02 19:59:00", "open": 163.87, "high": 163.88, "low": 163.8, "close": 163.84, "volume": 801.0}
+{"symbol": "AMZN", "timestamp": "2025-05-02 19:59:00", "open": 189.9002, "high": 189.93, "low": 189.9, "close": 189.9, "volume": 2342.0}
+{"symbol": "IBM", "timestamp": "2025-05-02 19:59:00", "open": 245.55, "high": 245.55, "low": 245.45, "close": 245.45, "volume": 13.0}
+{"symbol": "AAPL", "timestamp": "2025-05-02 19:59:00", "open": 205.14, "high": 205.15, "low": 205.04, "close": 205.1099, "volume": 7274.0}
+{"symbol": "MSFT", "timestamp": "2025-05-02 19:59:00", "open": 434.6, "high": 434.72, "low": 434.59, "close": 434.655, "volume": 268.0}
+{"symbol": "GOOGL", "timestamp": "2025-05-02 19:59:00", "open": 163.87, "high": 163.88, "low": 163.8, "close": 163.84, "volume": 801.0}
+{"symbol": "AMZN", "timestamp": "2025-05-02 19:59:00", "open": 189.9002, "high": 189.93, "low": 189.9, "close": 189.9, "volume": 2342.0}
+{"symbol": "IBM", "timestamp": "2025-05-02 19:59:00", "open": 245.55, "high": 245.55, "low": 245.45, "close": 245.45, "volume": 13.0}
+{"symbol": "AAPL", "timestamp": "2025-05-02 19:59:00", "open": 205.14, "high": 205.15, "low": 205.04, "close": 205.1099, "volume": 7274.0}
+{"symbol": "MSFT", "timestamp": "2025-05-02 19:59:00", "open": 434.6, "high": 434.72, "low": 434.59, "close": 434.655, "volume": 268.0}
+{"symbol": "GOOGL", "timestamp": "2025-05-02 19:59:00", "open": 163.87, "high": 163.88, "low": 163.8, "close": 163.84, "volume": 801.0}
+{"symbol": "AMZN", "timestamp": "2025-05-02 19:59:00", "open": 189.9002, "high": 189.93, "low": 189.9, "close": 189.9, "volume": 2342.0}
+{"symbol": "IBM", "timestamp": "2025-05-02 19:59:00", "open": 245.55, "high": 245.55, "low": 245.45, "close": 245.45, "volume": 13.0}
+{"symbol": "AAPL", "timestamp": "2025-05-02 19:59:00", "open": 205.14, "high": 205.15, "low": 205.04, "close": 205.1099, "volume": 7274.0}
+{"symbol": "MSFT", "timestamp": "2025-05-02 19:59:00", "open": 434.6, "high": 434.72, "low": 434.59, "close": 434.655, "volume": 268.0}
+{"symbol": "GOOGL", "timestamp": "2025-05-02 19:59:00", "open": 163.87, "high": 163.88, "low": 163.8, "close": 163.84, "volume": 801.0}
+{"symbol": "AMZN", "timestamp": "2025-05-02 19:59:00", "open": 189.9002, "high": 189.93, "low": 189.9, "close": 189.9, "volume": 2342.0}
+{"symbol": "IBM", "timestamp": "2025-05-02 19:59:00", "open": 245.55, "high": 245.55, "low": 245.45, "close": 245.45, "volume": 13.0}
+{"symbol": "AAPL", "timestamp": "2025-05-02 19:59:00", "open": 205.14, "high": 205.15, "low": 205.04, "close": 205.1099, "volume": 7274.0}
+{"symbol": "MSFT", "timestamp": "2025-05-02 19:59:00", "open": 434.6, "high": 434.72, "low": 434.59, "close": 434.655, "volume": 268.0}
+{"symbol": "AAPL", "timestamp": 1746345507632, "open": 206.09, "high": 206.99, "low": 202.16, "close": 205.35, "volume": 0, "previous_close": 213.32}
+{"symbol": "MSFT", "timestamp": 1746345508761, "open": 431.74, "high": 439.44, "low": 429.985, "close": 435.28, "volume": 0, "previous_close": 425.4}
+{"symbol": "GOOGL", "timestamp": 1746345509370, "open": 163.405, "high": 164.97, "low": 161.87, "close": 164.03, "volume": 0, "previous_close": 161.3}
+{"symbol": "AMZN", "timestamp": 1746345509983, "open": 191.435, "high": 192.88, "low": 186.4, "close": 189.98, "volume": 0, "previous_close": 190.2}
+{"symbol": "META", "timestamp": 1746345510475, "open": 583.455, "high": 604.34, "low": 578.33, "close": 597.02, "volume": 0, "previous_close": 572.21}
+{"symbol": "AAPL", "timestamp": 1746345571072, "open": 206.09, "high": 206.99, "low": 202.16, "close": 205.35, "volume": 0, "previous_close": 213.32}
+{"symbol": "MSFT", "timestamp": 1746345571534, "open": 431.74, "high": 439.44, "low": 429.985, "close": 435.28, "volume": 0, "previous_close": 425.4}
+{"symbol": "GOOGL", "timestamp": 1746345572025, "open": 163.405, "high": 164.97, "low": 161.87, "close": 164.03, "volume": 0, "previous_close": 161.3}
+{"symbol": "AMZN", "timestamp": 1746345572447, "open": 191.435, "high": 192.88, "low": 186.4, "close": 189.98, "volume": 0, "previous_close": 190.2}
+{"symbol": "META", "timestamp": 1746345572878, "open": 583.455, "high": 604.34, "low": 578.33, "close": 597.02, "volume": 0, "previous_close": 572.21}
+{"symbol": "AAPL", "timestamp": 1746345633436, "open": 206.09, "high": 206.99, "low": 202.16, "close": 205.35, "volume": 0, "previous_close": 213.32}
+{"symbol": "MSFT", "timestamp": 1746345633921, "open": 431.74, "high": 439.44, "low": 429.985, "close": 435.28, "volume": 0, "previous_close": 425.4}
+{"symbol": "GOOGL", "timestamp": 1746345634389, "open": 163.405, "high": 164.97, "low": 161.87, "close": 164.03, "volume": 0, "previous_close": 161.3}
+{"symbol": "AMZN", "timestamp": 1746345634908, "open": 191.435, "high": 192.88, "low": 186.4, "close": 189.98, "volume": 0, "previous_close": 190.2}
+{"symbol": "META", "timestamp": 1746345635450, "open": 583.455, "high": 604.34, "low": 578.33, "close": 597.02, "volume": 0, "previous_close": 572.21}
+{"symbol": "AAPL", "timestamp": 1746345696030, "open": 206.09, "high": 206.99, "low": 202.16, "close": 205.35, "volume": 0, "previous_close": 213.32}
+{"symbol": "MSFT", "timestamp": 1746345696560, "open": 431.74, "high": 439.44, "low": 429.985, "close": 435.28, "volume": 0, "previous_close": 425.4}
+{"symbol": "GOOGL", "timestamp": 1746345697374, "open": 163.405, "high": 164.97, "low": 161.87, "close": 164.03, "volume": 0, "previous_close": 161.3}
+{"symbol": "AMZN", "timestamp": 1746345698086, "open": 191.435, "high": 192.88, "low": 186.4, "close": 189.98, "volume": 0, "previous_close": 190.2}
+{"symbol": "META", "timestamp": 1746345699129, "open": 583.455, "high": 604.34, "low": 578.33, "close": 597.02, "volume": 0, "previous_close": 572.21}
+{"symbol": "AAPL", "timestamp": 1746345759877, "open": 206.09, "high": 206.99, "low": 202.16, "close": 205.35, "volume": 0, "previous_close": 213.32}
+{"symbol": "MSFT", "timestamp": 1746345760409, "open": 431.74, "high": 439.44, "low": 429.985, "close": 435.28, "volume": 0, "previous_close": 425.4}
+{"symbol": "GOOGL", "timestamp": 1746345761067, "open": 163.405, "high": 164.97, "low": 161.87, "close": 164.03, "volume": 0, "previous_close": 161.3}
+{"symbol": "AMZN", "timestamp": 1746345761713, "open": 191.435, "high": 192.88, "low": 186.4, "close": 189.98, "volume": 0, "previous_close": 190.2}
+{"symbol": "META", "timestamp": 1746345762210, "open": 583.455, "high": 604.34, "low": 578.33, "close": 597.02, "volume": 0, "previous_close": 572.21}
+{"symbol": "AAPL", "timestamp": 1746345822717, "open": 206.09, "high": 206.99, "low": 202.16, "close": 205.35, "volume": 0, "previous_close": 213.32}
+{"symbol": "MSFT", "timestamp": 1746345823145, "open": 431.74, "high": 439.44, "low": 429.985, "close": 435.28, "volume": 0, "previous_close": 425.4}
+{"symbol": "GOOGL", "timestamp": 1746345823734, "open": 163.405, "high": 164.97, "low": 161.87, "close": 164.03, "volume": 0, "previous_close": 161.3}
+{"symbol": "AMZN", "timestamp": 1746345824251, "open": 191.435, "high": 192.88, "low": 186.4, "close": 189.98, "volume": 0, "previous_close": 190.2}
+{"symbol": "META", "timestamp": 1746345824907, "open": 583.455, "high": 604.34, "low": 578.33, "close": 597.02, "volume": 0, "previous_close": 572.21}
+{"symbol": "AAPL", "timestamp": 1746345885633, "open": 206.09, "high": 206.99, "low": 202.16, "close": 205.35, "volume": 0, "previous_close": 213.32}
+{"symbol": "MSFT", "timestamp": 1746345886165, "open": 431.74, "high": 439.44, "low": 429.985, "close": 435.28, "volume": 0, "previous_close": 425.4}
+{"symbol": "GOOGL", "timestamp": 1746345886703, "open": 163.405, "high": 164.97, "low": 161.87, "close": 164.03, "volume": 0, "previous_close": 161.3}
+{"symbol": "AMZN", "timestamp": 1746345887195, "open": 191.435, "high": 192.88, "low": 186.4, "close": 189.98, "volume": 0, "previous_close": 190.2}
+{"symbol": "META", "timestamp": 1746345887672, "open": 583.455, "high": 604.34, "low": 578.33, "close": 597.02, "volume": 0, "previous_close": 572.21}
+{"symbol": "AAPL", "timestamp": 1746345948707, "open": 206.09, "high": 206.99, "low": 202.16, "close": 205.35, "volume": 0, "previous_close": 213.32}
+{"symbol": "MSFT", "timestamp": 1746345949253, "open": 431.74, "high": 439.44, "low": 429.985, "close": 435.28, "volume": 0, "previous_close": 425.4}
+{"symbol": "GOOGL", "timestamp": 1746345949735, "open": 163.405, "high": 164.97, "low": 161.87, "close": 164.03, "volume": 0, "previous_close": 161.3}
+{"symbol": "AMZN", "timestamp": 1746345950279, "open": 191.435, "high": 192.88, "low": 186.4, "close": 189.98, "volume": 0, "previous_close": 190.2}
+{"symbol": "META", "timestamp": 1746345950884, "open": 583.455, "high": 604.34, "low": 578.33, "close": 597.02, "volume": 0, "previous_close": 572.21}
+{"symbol": "AAPL", "timestamp": 1746346011315, "open": 206.09, "high": 206.99, "low": 202.16, "close": 205.35, "volume": 0, "previous_close": 213.32}
+{"symbol": "MSFT", "timestamp": 1746346011803, "open": 431.74, "high": 439.44, "low": 429.985, "close": 435.28, "volume": 0, "previous_close": 425.4}
+{"symbol": "GOOGL", "timestamp": 1746346012235, "open": 163.405, "high": 164.97, "low": 161.87, "close": 164.03, "volume": 0, "previous_close": 161.3}
+{"symbol": "AMZN", "timestamp": 1746346012663, "open": 191.435, "high": 192.88, "low": 186.4, "close": 189.98, "volume": 0, "previous_close": 190.2}
+{"symbol": "META", "timestamp": 1746346013065, "open": 583.455, "high": 604.34, "low": 578.33, "close": 597.02, "volume": 0, "previous_close": 572.21}
+{"symbol": "AAPL", "timestamp": 1746346073828, "open": 206.09, "high": 206.99, "low": 202.16, "close": 205.35, "volume": 0, "previous_close": 213.32}
+{"symbol": "MSFT", "timestamp": 1746346074410, "open": 431.74, "high": 439.44, "low": 429.985, "close": 435.28, "volume": 0, "previous_close": 425.4}
+{"symbol": "GOOGL", "timestamp": 1746346075380, "open": 163.405, "high": 164.97, "low": 161.87, "close": 164.03, "volume": 0, "previous_close": 161.3}
+{"symbol": "AMZN", "timestamp": 1746346076190, "open": 191.435, "high": 192.88, "low": 186.4, "close": 189.98, "volume": 0, "previous_close": 190.2}
+{"symbol": "META", "timestamp": 1746346076982, "open": 583.455, "high": 604.34, "low": 578.33, "close": 597.02, "volume": 0, "previous_close": 572.21}
+{"symbol": "AAPL", "timestamp": 1746346137547, "open": 206.09, "high": 206.99, "low": 202.16, "close": 205.35, "volume": 0, "previous_close": 213.32}
+{"symbol": "MSFT", "timestamp": 1746346138081, "open": 431.74, "high": 439.44, "low": 429.985, "close": 435.28, "volume": 0, "previous_close": 425.4}
+{"symbol": "GOOGL", "timestamp": 1746346138537, "open": 163.405, "high": 164.97, "low": 161.87, "close": 164.03, "volume": 0, "previous_close": 161.3}
+{"symbol": "AMZN", "timestamp": 1746346138984, "open": 191.435, "high": 192.88, "low": 186.4, "close": 189.98, "volume": 0, "previous_close": 190.2}
+{"symbol": "META", "timestamp": 1746346139465, "open": 583.455, "high": 604.34, "low": 578.33, "close": 597.02, "volume": 0, "previous_close": 572.21}
+{"symbol": "AAPL", "timestamp": 1746346200004, "open": 206.09, "high": 206.99, "low": 202.16, "close": 205.35, "volume": 0, "previous_close": 213.32}
+{"symbol": "MSFT", "timestamp": 1746346200492, "open": 431.74, "high": 439.44, "low": 429.985, "close": 435.28, "volume": 0, "previous_close": 425.4}
+{"symbol": "GOOGL", "timestamp": 1746346201076, "open": 163.405, "high": 164.97, "low": 161.87, "close": 164.03, "volume": 0, "previous_close": 161.3}
+{"symbol": "AMZN", "timestamp": 1746346201575, "open": 191.435, "high": 192.88, "low": 186.4, "close": 189.98, "volume": 0, "previous_close": 190.2}
+{"symbol": "META", "timestamp": 1746346202031, "open": 583.455, "high": 604.34, "low": 578.33, "close": 597.02, "volume": 0, "previous_close": 572.21}
+{"symbol": "AAPL", "timestamp": 1746346262586, "open": 206.09, "high": 206.99, "low": 202.16, "close": 205.35, "volume": 0, "previous_close": 213.32}
+{"symbol": "MSFT", "timestamp": 1746346263456, "open": 431.74, "high": 439.44, "low": 429.985, "close": 435.28, "volume": 0, "previous_close": 425.4}
+{"symbol": "GOOGL", "timestamp": 1746346264145, "open": 163.405, "high": 164.97, "low": 161.87, "close": 164.03, "volume": 0, "previous_close": 161.3}
+{"symbol": "AMZN", "timestamp": 1746346264687, "open": 191.435, "high": 192.88, "low": 186.4, "close": 189.98, "volume": 0, "previous_close": 190.2}
+{"symbol": "META", "timestamp": 1746346265283, "open": 583.455, "high": 604.34, "low": 578.33, "close": 597.02, "volume": 0, "previous_close": 572.21}
+{"symbol": "AAPL", "timestamp": 1746346325757, "open": 206.09, "high": 206.99, "low": 202.16, "close": 205.35, "volume": 0, "previous_close": 213.32}
+{"symbol": "MSFT", "timestamp": 1746346326263, "open": 431.74, "high": 439.44, "low": 429.985, "close": 435.28, "volume": 0, "previous_close": 425.4}
+{"symbol": "GOOGL", "timestamp": 1746346326834, "open": 163.405, "high": 164.97, "low": 161.87, "close": 164.03, "volume": 0, "previous_close": 161.3}
+{"symbol": "AMZN", "timestamp": 1746346327253, "open": 191.435, "high": 192.88, "low": 186.4, "close": 189.98, "volume": 0, "previous_close": 190.2}
+{"symbol": "META", "timestamp": 1746346328372, "open": 583.455, "high": 604.34, "low": 578.33, "close": 597.02, "volume": 0, "previous_close": 572.21}
+{"symbol": "AAPL", "timestamp": 1746348861385, "open": 206.09, "high": 206.99, "low": 202.16, "close": 205.35, "volume": 0, "previous_close": 213.32}
+{"symbol": "MSFT", "timestamp": 1746348862133, "open": 431.74, "high": 439.44, "low": 429.985, "close": 435.28, "volume": 0, "previous_close": 425.4}
+{"symbol": "GOOGL", "timestamp": 1746348862855, "open": 163.405, "high": 164.97, "low": 161.87, "close": 164.03, "volume": 0, "previous_close": 161.3}
+{"symbol": "AMZN", "timestamp": 1746348863512, "open": 191.435, "high": 192.88, "low": 186.4, "close": 189.98, "volume": 0, "previous_close": 190.2}
+{"symbol": "META", "timestamp": 1746348864173, "open": 583.455, "high": 604.34, "low": 578.33, "close": 597.02, "volume": 0, "previous_close": 572.21}
+{"symbol": "AAPL", "timestamp": 1746348924617, "open": 206.09, "high": 206.99, "low": 202.16, "close": 205.35, "volume": 0, "previous_close": 213.32}
+{"symbol": "MSFT", "timestamp": 1746348925759, "open": 431.74, "high": 439.44, "low": 429.985, "close": 435.28, "volume": 0, "previous_close": 425.4}
+{"symbol": "GOOGL", "timestamp": 1746348926154, "open": 163.405, "high": 164.97, "low": 161.87, "close": 164.03, "volume": 0, "previous_close": 161.3}
+{"symbol": "AMZN", "timestamp": 1746348927340, "open": 191.435, "high": 192.88, "low": 186.4, "close": 189.98, "volume": 0, "previous_close": 190.2}
+{"symbol": "META", "timestamp": 1746348927812, "open": 583.455, "high": 604.34, "low": 578.33, "close": 597.02, "volume": 0, "previous_close": 572.21}
+{"symbol": "AAPL", "timestamp": 1746348988658, "open": 206.09, "high": 206.99, "low": 202.16, "close": 205.35, "volume": 0, "previous_close": 213.32}
+{"symbol": "MSFT", "timestamp": 1746348989338, "open": 431.74, "high": 439.44, "low": 429.985, "close": 435.28, "volume": 0, "previous_close": 425.4}
+{"symbol": "GOOGL", "timestamp": 1746348990123, "open": 163.405, "high": 164.97, "low": 161.87, "close": 164.03, "volume": 0, "previous_close": 161.3}
+{"symbol": "AMZN", "timestamp": 1746348990530, "open": 191.435, "high": 192.88, "low": 186.4, "close": 189.98, "volume": 0, "previous_close": 190.2}
+{"symbol": "META", "timestamp": 1746348991021, "open": 583.455, "high": 604.34, "low": 578.33, "close": 597.02, "volume": 0, "previous_close": 572.21}
+{"symbol": "AAPL", "timestamp": 1746349051515, "open": 206.09, "high": 206.99, "low": 202.16, "close": 205.35, "volume": 0, "previous_close": 213.32}
+{"symbol": "MSFT", "timestamp": 1746349051987, "open": 431.74, "high": 439.44, "low": 429.985, "close": 435.28, "volume": 0, "previous_close": 425.4}
+{"symbol": "GOOGL", "timestamp": 1746349052415, "open": 163.405, "high": 164.97, "low": 161.87, "close": 164.03, "volume": 0, "previous_close": 161.3}
+{"symbol": "AMZN", "timestamp": 1746349052859, "open": 191.435, "high": 192.88, "low": 186.4, "close": 189.98, "volume": 0, "previous_close": 190.2}
+{"symbol": "META", "timestamp": 1746349053306, "open": 583.455, "high": 604.34, "low": 578.33, "close": 597.02, "volume": 0, "previous_close": 572.21}
+{"symbol": "AAPL", "timestamp": 1746349113747, "open": 206.09, "high": 206.99, "low": 202.16, "close": 205.35, "volume": 0, "previous_close": 213.32}
+{"symbol": "MSFT", "timestamp": 1746349114198, "open": 431.74, "high": 439.44, "low": 429.985, "close": 435.28, "volume": 0, "previous_close": 425.4}
+{"symbol": "GOOGL", "timestamp": 1746349114810, "open": 163.405, "high": 164.97, "low": 161.87, "close": 164.03, "volume": 0, "previous_close": 161.3}
+{"symbol": "AMZN", "timestamp": 1746349115231, "open": 191.435, "high": 192.88, "low": 186.4, "close": 189.98, "volume": 0, "previous_close": 190.2}
+{"symbol": "META", "timestamp": 1746349115729, "open": 583.455, "high": 604.34, "low": 578.33, "close": 597.02, "volume": 0, "previous_close": 572.21}
+{"symbol": "AAPL", "timestamp": 1746349176224, "open": 206.09, "high": 206.99, "low": 202.16, "close": 205.35, "volume": 0, "previous_close": 213.32}
+{"symbol": "MSFT", "timestamp": 1746349176659, "open": 431.74, "high": 439.44, "low": 429.985, "close": 435.28, "volume": 0, "previous_close": 425.4}
+{"symbol": "GOOGL", "timestamp": 1746349177095, "open": 163.405, "high": 164.97, "low": 161.87, "close": 164.03, "volume": 0, "previous_close": 161.3}
+{"symbol": "AMZN", "timestamp": 1746349177810, "open": 191.435, "high": 192.88, "low": 186.4, "close": 189.98, "volume": 0, "previous_close": 190.2}
+{"symbol": "META", "timestamp": 1746349178209, "open": 583.455, "high": 604.34, "low": 578.33, "close": 597.02, "volume": 0, "previous_close": 572.21}
+{"symbol": "AAPL", "timestamp": 1746349238741, "open": 206.09, "high": 206.99, "low": 202.16, "close": 205.35, "volume": 0, "previous_close": 213.32}
+{"symbol": "MSFT", "timestamp": 1746349239254, "open": 431.74, "high": 439.44, "low": 429.985, "close": 435.28, "volume": 0, "previous_close": 425.4}
+{"symbol": "GOOGL", "timestamp": 1746349239846, "open": 163.405, "high": 164.97, "low": 161.87, "close": 164.03, "volume": 0, "previous_close": 161.3}
+{"symbol": "AMZN", "timestamp": 1746349240324, "open": 191.435, "high": 192.88, "low": 186.4, "close": 189.98, "volume": 0, "previous_close": 190.2}
+{"symbol": "META", "timestamp": 1746349240799, "open": 583.455, "high": 604.34, "low": 578.33, "close": 597.02, "volume": 0, "previous_close": 572.21}
+{"symbol": "AAPL", "timestamp": 1746349301378, "open": 206.09, "high": 206.99, "low": 202.16, "close": 205.35, "volume": 0, "previous_close": 213.32}
+{"symbol": "MSFT", "timestamp": 1746349301874, "open": 431.74, "high": 439.44, "low": 429.985, "close": 435.28, "volume": 0, "previous_close": 425.4}
+{"symbol": "GOOGL", "timestamp": 1746349302321, "open": 163.405, "high": 164.97, "low": 161.87, "close": 164.03, "volume": 0, "previous_close": 161.3}
+{"symbol": "AMZN", "timestamp": 1746349302716, "open": 191.435, "high": 192.88, "low": 186.4, "close": 189.98, "volume": 0, "previous_close": 190.2}
+{"symbol": "META", "timestamp": 1746349303136, "open": 583.455, "high": 604.34, "low": 578.33, "close": 597.02, "volume": 0, "previous_close": 572.21}
+{"symbol": "AAPL", "timestamp": 1746349363719, "open": 206.09, "high": 206.99, "low": 202.16, "close": 205.35, "volume": 0, "previous_close": 213.32}
+{"symbol": "MSFT", "timestamp": 1746349364282, "open": 431.74, "high": 439.44, "low": 429.985, "close": 435.28, "volume": 0, "previous_close": 425.4}
+{"symbol": "GOOGL", "timestamp": 1746349364735, "open": 163.405, "high": 164.97, "low": 161.87, "close": 164.03, "volume": 0, "previous_close": 161.3}
+{"symbol": "AMZN", "timestamp": 1746349365388, "open": 191.435, "high": 192.88, "low": 186.4, "close": 189.98, "volume": 0, "previous_close": 190.2}
+{"symbol": "META", "timestamp": 1746349365838, "open": 583.455, "high": 604.34, "low": 578.33, "close": 597.02, "volume": 0, "previous_close": 572.21}
+{"symbol": "AAPL", "timestamp": 1746349426247, "open": 206.09, "high": 206.99, "low": 202.16, "close": 205.35, "volume": 0, "previous_close": 213.32}
+{"symbol": "MSFT", "timestamp": 1746349426708, "open": 431.74, "high": 439.44, "low": 429.985, "close": 435.28, "volume": 0, "previous_close": 425.4}
+{"symbol": "GOOGL", "timestamp": 1746349427169, "open": 163.405, "high": 164.97, "low": 161.87, "close": 164.03, "volume": 0, "previous_close": 161.3}
+{"symbol": "AMZN", "timestamp": 1746349427735, "open": 191.435, "high": 192.88, "low": 186.4, "close": 189.98, "volume": 0, "previous_close": 190.2}
+{"symbol": "META", "timestamp": 1746349428270, "open": 583.455, "high": 604.34, "low": 578.33, "close": 597.02, "volume": 0, "previous_close": 572.21}
+{"symbol": "AAPL", "timestamp": 1746349488716, "open": 206.09, "high": 206.99, "low": 202.16, "close": 205.35, "volume": 0, "previous_close": 213.32}
+{"symbol": "MSFT", "timestamp": 1746349489275, "open": 431.74, "high": 439.44, "low": 429.985, "close": 435.28, "volume": 0, "previous_close": 425.4}
+{"symbol": "GOOGL", "timestamp": 1746349489790, "open": 163.405, "high": 164.97, "low": 161.87, "close": 164.03, "volume": 0, "previous_close": 161.3}
+{"symbol": "AMZN", "timestamp": 1746349490229, "open": 191.435, "high": 192.88, "low": 186.4, "close": 189.98, "volume": 0, "previous_close": 190.2}
+{"symbol": "META", "timestamp": 1746349490639, "open": 583.455, "high": 604.34, "low": 578.33, "close": 597.02, "volume": 0, "previous_close": 572.21}
+{"symbol": "AAPL", "timestamp": 1746349551223, "open": 206.09, "high": 206.99, "low": 202.16, "close": 205.35, "volume": 0, "previous_close": 213.32}
+{"symbol": "MSFT", "timestamp": 1746349551830, "open": 431.74, "high": 439.44, "low": 429.985, "close": 435.28, "volume": 0, "previous_close": 425.4}
+{"symbol": "GOOGL", "timestamp": 1746349552291, "open": 163.405, "high": 164.97, "low": 161.87, "close": 164.03, "volume": 0, "previous_close": 161.3}
+{"symbol": "AMZN", "timestamp": 1746349552768, "open": 191.435, "high": 192.88, "low": 186.4, "close": 189.98, "volume": 0, "previous_close": 190.2}
+{"symbol": "META", "timestamp": 1746349553310, "open": 583.455, "high": 604.34, "low": 578.33, "close": 597.02, "volume": 0, "previous_close": 572.21}
+{"symbol": "AAPL", "timestamp": 1746350826950, "open": 206.09, "high": 206.99, "low": 202.16, "close": 205.35, "volume": 0, "previous_close": 213.32}
+{"symbol": "MSFT", "timestamp": 1746350827406, "open": 431.74, "high": 439.44, "low": 429.985, "close": 435.28, "volume": 0, "previous_close": 425.4}
+{"symbol": "GOOGL", "timestamp": 1746350827882, "open": 163.405, "high": 164.97, "low": 161.87, "close": 164.03, "volume": 0, "previous_close": 161.3}
+{"symbol": "AMZN", "timestamp": 1746350830256, "open": 191.435, "high": 192.88, "low": 186.4, "close": 189.98, "volume": 0, "previous_close": 190.2}
+{"symbol": "META", "timestamp": 1746350830879, "open": 583.455, "high": 604.34, "low": 578.33, "close": 597.02, "volume": 0, "previous_close": 572.21}
+{"symbol": "AAPL", "timestamp": 1746350891306, "open": 206.09, "high": 206.99, "low": 202.16, "close": 205.35, "volume": 0, "previous_close": 213.32}
+{"symbol": "MSFT", "timestamp": 1746350891802, "open": 431.74, "high": 439.44, "low": 429.985, "close": 435.28, "volume": 0, "previous_close": 425.4}
+{"symbol": "GOOGL", "timestamp": 1746350892437, "open": 163.405, "high": 164.97, "low": 161.87, "close": 164.03, "volume": 0, "previous_close": 161.3}
+{"symbol": "AMZN", "timestamp": 1746350892881, "open": 191.435, "high": 192.88, "low": 186.4, "close": 189.98, "volume": 0, "previous_close": 190.2}
+{"symbol": "META", "timestamp": 1746350893322, "open": 583.455, "high": 604.34, "low": 578.33, "close": 597.02, "volume": 0, "previous_close": 572.21}
+{"symbol": "AAPL", "timestamp": 1746350953837, "open": 206.09, "high": 206.99, "low": 202.16, "close": 205.35, "volume": 0, "previous_close": 213.32}
+{"symbol": "MSFT", "timestamp": 1746350954260, "open": 431.74, "high": 439.44, "low": 429.985, "close": 435.28, "volume": 0, "previous_close": 425.4}
+{"symbol": "GOOGL", "timestamp": 1746350954835, "open": 163.405, "high": 164.97, "low": 161.87, "close": 164.03, "volume": 0, "previous_close": 161.3}
+{"symbol": "AMZN", "timestamp": 1746350955273, "open": 191.435, "high": 192.88, "low": 186.4, "close": 189.98, "volume": 0, "previous_close": 190.2}
+{"symbol": "META", "timestamp": 1746350955701, "open": 583.455, "high": 604.34, "low": 578.33, "close": 597.02, "volume": 0, "previous_close": 572.21}

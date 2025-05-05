@@ -1,0 +1,5 @@
+python-dotenv==1.0.0
+confluent-kafka==2.1.1
+pyspark==3.4.1
+tableauserverclient==0.25
+requests==2.31.0 
